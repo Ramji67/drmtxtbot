@@ -1,5 +1,5 @@
-api_id = 26451206
-api_hash = "32984406271d6f3945bb536671b143a7"
-bot_token = "7010963603:AAEaabkjr2DjiX2vhD8gVbkVlKWMrJTByPc"
+api_id = 28088290
+api_hash = "6998f2c585fdce65ac72dfa23d02b6ec"
+bot_token = "7452214279:AAHakbBdOuczYkVhwloCDySbdO0LqemFRYk"
 AUTH = 6830450483
-#Bot Username = "bhuriyabhaig"
+#Bot Username = "Upload_tst_bot"
